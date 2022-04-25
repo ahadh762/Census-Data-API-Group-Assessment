@@ -29,5 +29,8 @@ The Datasets include:
 
 ## Project Goals:
 Our Goal for this project is to ask preliminary questions, consume the APIs/explore the data, create diagrams from the API data, and answer the preliminary questions and provide our analysis of what the Census data represents.<br/><br/>
-Each member of our team was assigned a survey to work on
-
+Each member of our team was assigned a survey to work analyze:
+* [Company Survey](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/company_summary.ipynb) - Ahad Hussain
+* [Characteristics of Businesses](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/characteristics_of_business.ipynb) - Isaac Lee
+* [Characteristics of Business Owners](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/characteristics_of_owners.ipynb) - Jeannine Hall
+* [Technology Characteristics of Businesses](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/technology_characteristics.ipynb) - Derek Preslar
