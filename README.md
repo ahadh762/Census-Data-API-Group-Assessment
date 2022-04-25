@@ -4,7 +4,7 @@
 * Isaac Lee
 * Jeannine Hall
 * Derek Preslar
-
+<br/><br/>
 ## Annual Business Survey 2019:
 Collected by the US Census Bureau, The [Annual Business Survey (ABS)](https://www.census.gov/data/developers/data-sets/abs.2019.html) provides information on selected economic and demographic characteristics for businesses and business owners by sex, ethnicity, race, and veteran status.<br/><br/>
 
@@ -28,9 +28,11 @@ The Datasets include:
   * [Technology Characteristics of Businesses Documentation](https://www2.census.gov/programs-surveys/abs/technical-documentation/api/ABS_API_TCB-2-9-2021.pdf)<br/><br/>
 
 ## Project Goals:
-Our Goal for this project is to ask preliminary questions, consume the APIs/explore the data, create diagrams from the API data, and answer the preliminary questions and provide our analysis of what the Census data represents.<br/><br/>
-Each member of our team was assigned a survey to work analyze:
+Our goal for this project is to ask preliminary questions, consume the APIs/explore the data, create diagrams from the API data, and answer the preliminary questions and provide our analysis of what the Census data represents.<br/><br/>
+Each member of our team was assigned a survey to work analyze in our respective Jupyter Notebooks:
 * [Company Survey](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/company_summary.ipynb) - Ahad Hussain
 * [Characteristics of Businesses](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/characteristics_of_business.ipynb) - Isaac Lee
 * [Characteristics of Business Owners](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/characteristics_of_owners.ipynb) - Jeannine Hall
 * [Technology Characteristics of Businesses](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/technology_characteristics.ipynb) - Derek Preslar
+
+Our Analysis and Diagrams are compiled in the [Census Data Final Report PDF](https://github.com/ahadh762/Census-Data-API-Group-Exercise/blob/master/Census%20Data%20Final%20Report.pdf)
