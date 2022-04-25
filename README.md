@@ -1,4 +1,4 @@
-# Census-Data-API-Group-Exercise
+# Census-Data-API-Group-Assessment
 ## Team #2 Members:
 * Ahad Hussain
 * Isaac Lee
