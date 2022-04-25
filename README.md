@@ -6,7 +6,7 @@
 * Derek Preslar
 <br/><br/>
 ## Annual Business Survey 2019:
-Collected by the US Census Bureau, The [Annual Business Survey (ABS)](https://www.census.gov/data/developers/data-sets/abs.2019.html) provides information on selected economic and demographic characteristics for businesses and business owners by sex, ethnicity, race, and veteran status.<br/><br/>
+Collected by the US Census Bureau, the [Annual Business Survey (ABS)](https://www.census.gov/data/developers/data-sets/abs.2019.html) provides information on selected economic and demographic characteristics for businesses and business owners by sex, ethnicity, race, and veteran status.<br/><br/>
 
 The Datasets include:
 <br/><br/>
