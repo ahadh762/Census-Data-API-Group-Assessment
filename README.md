@@ -20,7 +20,7 @@ The Datasets include:
   * [Characteristics of Businesses Documentation](https://www2.census.gov/programs-surveys/abs/technical-documentation/api/ABS_API_CB-1-26-2021.pdf) <br/><br/>
 * `Characteristics of Business Owners`
   * Provides data for owners of respondent employer firms by sector, sex, ethnicity, race, and veteran status for the U.S., states, and metro areas, including detailed owner characteristics
-  * [Variables List](https://api.census.gov/data/2019/abscbo/variables.html)
+  * [Characteristics of Business Owners Variables List](https://api.census.gov/data/2019/abscbo/variables.html)
   * [Characteristics of Business Owners Documentation](https://www2.census.gov/programs-surveys/abs/technical-documentation/api/ABS_API_CB-1-26-2021.pdf) <br/><br/>
 * `Technology Characteristics of Businesses`
   * Provides data on technology use and production for Artificial Intelligence, Cloud-Based Computing, Specialized Software, Robotics, and Specialized Equipment technologies data at the U.S and State level 
